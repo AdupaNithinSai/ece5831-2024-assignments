@@ -16,7 +16,7 @@ This assignment consists of various Python tutorials and Jupyter notebooks. Belo
 ├── country.csv             # Additional country data for reference
 ├── learn-python-2.ipynb    # Jupyter notebook for Data Science Tutorials
 ├── learn-python-3.ipynb    # Jupyter notebook for Advanced Tutorials
-├── numpy-tutorials.ipynb   # Jupyter notebook focusing on NumPy library
+├── numpy-tutorials.ipynb   # Jupyter notebook for Numpy Tutorial 
 ├── pricing.py              # Functions related to product pricing
 ├── product.py              # Product management functions
 ├── python-tutorial-1-10.ipynb  # Jupyter notebook for Python Basics: Sections 1 ~ 10
