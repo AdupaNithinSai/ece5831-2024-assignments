@@ -1,0 +1,7 @@
+1. Data is essential; quality matters.
+2. Choose the right architecture for your task.
+3. Training requires patience and careful monitoring.
+4. Avoid overfitting; use regularization techniques.
+5. Visualize results to gain insights.
+6. Experiment with hyperparameters for better performance.
+7. Always validate with unseen data.
