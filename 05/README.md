@@ -37,4 +37,4 @@ python rock-paper-scissors-live.py
 A demonstration video of the live classification can be found on my YouTube channel: [YouTube Link](https://youtu.be/GMAd2sv_FR8)
 
 You can also watch the video here:
-<iframe width="560" height="315" src="https://www.youtube.com/embed/GMAd2sv_FR8?si=Ruma8aNSS6IgTUwi" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/GMAd2sv_FR8" frameborder="0" allowfullscreen></iframe>
