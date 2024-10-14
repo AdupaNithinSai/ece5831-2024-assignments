@@ -38,8 +38,8 @@ python rock-paper-scissors-live.py
 A demonstration video of the live classification can be found on my YouTube channel:
 
 ##### Video recorded with code in rock-paper-scissors-live.py
-<iframe width="320" height="180" src="https://www.youtube.com/embed/GMAd2sv_FR8" frameborder="0" allowfullscreen></iframe>
+[![Rock-Paper-Scissors Demo with Code](https://img.youtube.com/vi/r_4LwX38UfE/0.jpg)](https://www.youtube.com/watch?v=r_4LwX38UfE)
 
 ##### Video recorded with a third-party app
-<iframe width="320" height="180" src="https://www.youtube.com/embed/GMAd2sv_FR8" frameborder="0" allowfullscreen></iframe>
+[![Rock-Paper-Scissors Demo](https://img.youtube.com/vi/GMAd2sv_FR8/0.jpg)](https://youtu.be/GMAd2sv_FR8)
 
