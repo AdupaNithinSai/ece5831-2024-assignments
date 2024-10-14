@@ -35,6 +35,9 @@ while True:
     class_name = class_names[index].strip()
     confidence_score = prediction[0][index]
 
+    print("Class:", class_name[2:], end="")
+    print("Confidence Score:", str(np.round(confidence_score * 100))[:-2], "%")
+
     text = f"Class: {class_name}, Confidence: {np.round(confidence_score * 100)}%"
     cv2.putText(image, text, (10, 30), cv2.FONT_HERSHEY_SIMPLEX, 0.7, (0, 255, 0), 2, cv2.LINE_AA)
 
