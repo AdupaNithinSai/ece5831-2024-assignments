@@ -5,9 +5,12 @@ import numpy as np
 from PIL import Image
 
 def load_custom_image(image_path):
-    #Load and preprocess the image to match the input format of the trained model.
     img = Image.open(image_path).convert('L')
     img = img.resize((28, 28))
+    
+    # Invert image colors
+    img = np.invert(np.array(img))
+    
     img = np.asarray(img, dtype=np.float32).reshape(1, 784)
     img = img / 255.0
     return img
